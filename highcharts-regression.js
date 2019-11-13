@@ -33,6 +33,7 @@
                 data: [],
                 color: s.regressionSettings.color || '',
                 yAxis: s.yAxis,
+                xAxis: s.xAxis,
                 lineWidth: s.regressionSettings.lineWidth || 2,
                 marker: {enabled: false},
                 isRegressionLine: true,
